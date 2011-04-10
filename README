@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3551
+
+This vimscript allows you to search Google inside Vim. You just need to enter the command ":Google <search_term>" and Vim will switch to text-based browser 'links' and search Google for <search_term> just entered.
+
+Example: :Google vim rocks
+
+To quit from links and return back to Vim click on 'q' then 'Enter' twice.
